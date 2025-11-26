@@ -1,7 +1,3 @@
-Thx for applying to our startup. We are looking to hire an engineer asap so let's get things in motion. We've received lots of applicants all with unique experiences and I would love to interview you all and get to know you on a personal level, but it's sadly not feasible. We decided we'll only interview candidates that pass our custom take home challenge. I know take home challenges tend to be annoying and not worth the time but this one is different. I've spent lots of time and care building the challenge from scratch and making it fun and interesting. It's not a typical leetcode/algorithm/logic assessment; those have solutions that are easily accessible, and do a horrible job at measuring your ability to solve real problems. 
-
-Anyone who passes the challenge immediately gets an interview with our CTO and thus has an extremely high likelihood of being hired.
-
 Here is the take home challenge:
 Figure out how to programmatically send disappearing photos on Telegram web using a chrome extension.
 
